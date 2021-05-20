@@ -9,7 +9,7 @@ Hrs=0
 
 Hrs=int(input("Enter number of hours worked: "))
 
-if (Hrs>40):
+if (Hrs>min_hr):
     Extra_hrs = Hrs-min_hr
     salary=(min_hr*Price_hour)+(Extra_hrs*Price_hour*bon)
 
