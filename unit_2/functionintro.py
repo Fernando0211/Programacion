@@ -1,3 +1,5 @@
+#Funciones en python
+
 from sys import argv as ag
 
 def addtwonumbers(n1, n2):
