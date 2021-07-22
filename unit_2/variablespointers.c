@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include "/mnt/c/Users/HP/StructuredPrograming2A/unit_2/folderTest/utils.h"
 
+///Pointers///
 
 int myInt=4;
 float myFloat=3.1416;
