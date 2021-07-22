@@ -1,7 +1,7 @@
 import sys
 import random as rd
 
-
+###Data structures
 myList = list()
 otherList = [] 
 myInt  = 3
