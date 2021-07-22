@@ -1,5 +1,7 @@
 import sys
 
+###Practica###
+
 def order (a):
     return[sorted([a[i] for i in range (0, len(a)) if a[i]>0 ])]
 

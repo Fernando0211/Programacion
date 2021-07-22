@@ -1,5 +1,7 @@
 import sys
 
+###Practica###
+
 def listElementsum (list):
     suma=0
     for i in range (0, len(list[0])):

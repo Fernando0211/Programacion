@@ -1,5 +1,7 @@
 import sys
 
+###Practica###
+
 def sumLista (a):
     return[sum([input[i] for i in range (0, len(a)) if i%2==0]), sum([input[i] for i in range (0, len(a)) if i%2==1])]
 

@@ -1,5 +1,7 @@
 import sys
 
+###Practica###
+
 def palin (string):
     string2=string.lower()
     string3=string2.replace(" ","")
