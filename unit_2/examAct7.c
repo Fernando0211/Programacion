@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "/mnt/c/Users/HP/StructuredPrograming2A/unit_2/folderTest/exam.h"
-
+///Exam Activity 7///
 int main (){
     ROBOT markovito;
     markovito.name="Markovito";
