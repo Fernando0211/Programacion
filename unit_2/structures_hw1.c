@@ -1,5 +1,6 @@
 #include "/mnt/c/Users/HP/StructuredPrograming2A/unit_2/folderTest/utils.h"
 
+///Structure Homework///
 
 typedef struct calificaciones{
 

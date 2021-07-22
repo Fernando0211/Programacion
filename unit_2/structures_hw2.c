@@ -2,6 +2,7 @@
 #include <string.h>
 #include "/mnt/c/Users/HP/StructuredPrograming2A/unit_2/folderTest/utils.h"
 
+///Structure Homework///
 
 int main(int argc, char** argv){
     
