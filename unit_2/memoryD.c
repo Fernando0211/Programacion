@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include "/mnt/c/Users/HP/StructuredPrograming2A/unit_2/folderTest/utils.h"
 
+///MemoryD///
+
 int array[5];
 int* arrayPointer=NULL;
 int*  arreglo =NULL;
