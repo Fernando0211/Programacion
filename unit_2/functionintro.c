@@ -1,6 +1,7 @@
 #include <stdio.h>
-//#include "./utils.h"
 #include "/mnt/c/Users/HP/StructuredPrograming2A/unit_2/folderTest/utils.h"
+
+///Functions///
 
 int myNumber = 3;
 float myFloat  = 3.1416;

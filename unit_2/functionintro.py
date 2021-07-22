@@ -1,11 +1,10 @@
 from sys import argv as ag
 
+###Functions###
+
 def addtwonumbers(n1, n2):
     print("Star program: Add two numbers\n")
     return n1+n2
-
-##if __name__=="__main__":
-    ##print(f'La suma de dos numeros={ addtwonumbers( int(ag[1]),int(ag[2]) )}')
 
 def n01isPrime(n01):
     num_div= 1

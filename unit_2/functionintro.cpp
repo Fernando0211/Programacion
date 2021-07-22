@@ -1,6 +1,8 @@
 #include <iostream>
 #include <tuple>
 
+///Functions///
+
 std::string myString = "Hola mundo";
 int myNumber = 3;
 float myFloat  = 3.1416;
