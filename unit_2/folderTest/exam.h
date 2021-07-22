@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//##Examen Unit 2##//
 typedef struct Robot
 {
     char* name;
