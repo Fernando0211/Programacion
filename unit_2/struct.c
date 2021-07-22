@@ -3,6 +3,8 @@
 #include <stdio.h>
 #include "/mnt/c/Users/HP/StructuredPrograming2A/unit_2/folderTest/utils.h"
 
+///Structure///
+
 int a=2;
 int b=4;
 
