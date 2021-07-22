@@ -4,6 +4,7 @@
 #include "./folderTest/utils.h"
 #include "stdbool.h"
 
+///Callbacks///
 void callToNumber(int number){
         printf("Llamando al %d!\n", number);
 }
