@@ -1,5 +1,3 @@
-#Funciones en python
-
 from sys import argv as ag
 
 def addtwonumbers(n1, n2):
@@ -12,15 +10,14 @@ def addtwonumbers(n1, n2):
 def n01isPrime(n01):
     num_div= 1
     counter=2
-    number=n01
 
-    if (number==1):
+    if (n01==1):
         return False #False=No es primo
 
     else:
-        while(counter<=number):
+        while(counter<=n01):
             
-            if(number%counter==0):
+            if(n01%counter==0):
                 num_div += 1
             counter += 1
             
@@ -33,14 +30,14 @@ def n01isPrime(n01):
 def n02isPrime(n02):
     num_div= 1
     counter=2
-    number=n02
-    if (number==1):
+    
+    if (n02==1):
         return False
 
     else:
-        while(counter<=number):
+        while(counter<=n02):
             
-            if(number%counter==0):
+            if(n02%counter==0):
                 num_div += 1
             counter += 1
             
