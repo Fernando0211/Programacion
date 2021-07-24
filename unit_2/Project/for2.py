@@ -1,19 +1,32 @@
 import sys
 
 list=[]
-list2=[]
-list3=[]
-list4=[]
+n=1
+i=None
 
 if __name__ == "__main__":
-    for i in range(2,6):
-        list.append(i)
-    for i in range(3,7):
-        list2.append(i)
-    for i in range(4,8):
-        list3.append(i)
-    for i in range(5,9):
-        list4.append(i)
-
-    print(list+list2+list3+list4)
-
+    for i in range (0,17):
+        list.insert(i, n+1)
+        n+=1
+        if n==5:
+            break
+    n=n-3
+    
+    for i in range (4,17):
+        list.insert(i, n+1)
+        n+=1
+        if n==6:
+            break
+    n=n-3
+    for i in range (8,17):
+        list.insert(i, n+1)
+        n+=1
+        if n==7:
+            break
+    n=n-3
+    for i in range (12,17):
+        list.insert(i, n+1)
+        n+=1
+        if n==8:
+            break
+    print(list)
