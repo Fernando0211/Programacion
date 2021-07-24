@@ -14,11 +14,8 @@ int main(int argc, char* argv[]){
         add+=x;
         av=(add)/i;
     if (i==(argc-1)){
-    printf("Average:%.3f\n", av);  
+    printf("\nAverage:%.3f\n", av);  
+    } 
     }
-   
-    
-    }
-
     return 0;
 }

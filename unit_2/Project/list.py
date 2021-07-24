@@ -7,7 +7,7 @@ l=0
 j=0
 
 if __name__ == "__main__":
-    print("Original list\n",tempF)
+    print("Original list:\n",tempF)
     l=tempF.count(-999)
     for i in range (0,l):
         tempF.remove(-999)
