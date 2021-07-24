@@ -8,5 +8,6 @@ if __name__ == "__main__":
     print(f"{sys.argv[0]}: The average of the numbers entered.\n")
     for i in range (1, len(sys.argv)):
         add=(add+float(sys.argv[i]))
-    av=add/i
+        av=add/i
+
     print("The average is: ", av)
